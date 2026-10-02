@@ -40,7 +40,7 @@ False and misleading information spreads rapidly through news sites and social m
 ### Source
 **FEVER (Fact Extraction and VERification)** — [FEVER Dataset](https://fever.ai/dataset/fever.html)
 
-- **Samples:** 185,445 claims
+- **Samples:** 145,449 claims
 - **Main fields:** `id`, `claim`, `label`, `evidence`
 - **Labels:** `SUPPORTS`, `REFUTES`, `NOT ENOUGH INFO`
 - **Evidence source:** Wikipedia
